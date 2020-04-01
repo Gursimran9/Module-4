@@ -17,20 +17,7 @@
         "price" : 14.28,
         "details": "Having a dog dry itself off all over your living room post-bath is rarely ideal.",
         "image": "Image3.jpg"
-      },
-      {
-        "name": "A pizza hat",
-        "price" : 21.99,
-        "details": "Finally, you can indulge in everyone's life-long desire of wearing pizza atop their head.",
-        "image": "Image4.jpg"
-      },
-      {
-        "name": "A Cthulhu hat",
-        "price" : 9.99,
-        "details": "This balaclava has everything you need to brave the cold.",
-        "image": "Image5.jpg"
       }
-      
     ]
   }
   
