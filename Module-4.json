@@ -1,0 +1,45 @@
+{
+    "weiredProducts": [
+      {
+        "name": "A Human Finger",
+        "price" : 19.95,
+        "details": [
+          "cheese",
+          "green olives", 
+          "tomatoes", 
+          "pineapple", 
+          "spinach", 
+          "onions"
+        ],
+        "image": "Image1.jpg"
+      },
+      {
+        "name": "Uranium ore",
+        "price" : 39.99,
+        "details": [
+          "cheese",
+          "green olives", 
+          "tomatoes", 
+          "pineapple", 
+          "spinach", 
+          "onions"
+        ],
+        "image": "Image2.jpg"
+      },
+      {
+        "name": "A dog dryer",
+        "price" : 14.28,
+        "details": [
+          "cheese",
+          "green olives", 
+          "tomatoes", 
+          "pineapple", 
+          "spinach", 
+          "onions"
+        ],
+        "image": "Image3.jpg"
+      }
+      
+    ]
+  }
+  
